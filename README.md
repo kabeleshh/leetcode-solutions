@@ -9,4 +9,8 @@
 | [0197-rising-temperature](https://github.com/kabeleshh/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/kabeleshh/leetcode-solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/kabeleshh/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/kabeleshh/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
