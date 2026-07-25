@@ -19,6 +19,7 @@
 | [1084-sales-analysis-iii](https://github.com/kabeleshh/leetcode-solutions/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/kabeleshh/leetcode-solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1341-movie-rating](https://github.com/kabeleshh/leetcode-solutions/tree/main/1341-movie-rating/) | Medium |
+| [1407-top-travellers](https://github.com/kabeleshh/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
