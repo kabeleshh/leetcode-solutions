@@ -21,6 +21,7 @@
 | [1251-average-selling-price](https://github.com/kabeleshh/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1341-movie-rating](https://github.com/kabeleshh/leetcode-solutions/tree/main/1341-movie-rating/) | Medium |
 | [1407-top-travellers](https://github.com/kabeleshh/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/kabeleshh/leetcode-solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
