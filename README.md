@@ -20,6 +20,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/kabeleshh/leetcode-solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1251-average-selling-price](https://github.com/kabeleshh/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/kabeleshh/leetcode-solutions/tree/main/1280-students-and-examinations/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/kabeleshh/leetcode-solutions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/kabeleshh/leetcode-solutions/tree/main/1341-movie-rating/) | Medium |
 | [1407-top-travellers](https://github.com/kabeleshh/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/kabeleshh/leetcode-solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
