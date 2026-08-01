@@ -16,6 +16,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/kabeleshh/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0608-tree-node](https://github.com/kabeleshh/leetcode-solutions/tree/main/0608-tree-node/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/kabeleshh/leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
+| [1075-project-employees-i](https://github.com/kabeleshh/leetcode-solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/kabeleshh/leetcode-solutions/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/kabeleshh/leetcode-solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1251-average-selling-price](https://github.com/kabeleshh/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
