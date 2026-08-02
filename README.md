@@ -26,6 +26,7 @@
 | [1407-top-travellers](https://github.com/kabeleshh/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/kabeleshh/leetcode-solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/kabeleshh/leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1729-find-followers-count](https://github.com/kabeleshh/leetcode-solutions/tree/main/1729-find-followers-count/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
