@@ -11,6 +11,7 @@
 | [0184-department-highest-salary](https://github.com/kabeleshh/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/kabeleshh/leetcode-solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/kabeleshh/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/kabeleshh/leetcode-solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/kabeleshh/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/kabeleshh/leetcode-solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/kabeleshh/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
