@@ -32,6 +32,7 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kabeleshh/leetcode-solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/kabeleshh/leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/kabeleshh/leetcode-solutions/tree/main/1729-find-followers-count/) | Easy |
+| [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/kabeleshh/leetcode-solutions/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
