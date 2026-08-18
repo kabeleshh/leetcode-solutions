@@ -33,6 +33,7 @@
 | [1661-average-time-of-process-per-machine](https://github.com/kabeleshh/leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/kabeleshh/leetcode-solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1907-count-salary-categories](https://github.com/kabeleshh/leetcode-solutions/tree/main/1907-count-salary-categories/) | Medium |
+| [3220-odd-and-even-transactions](https://github.com/kabeleshh/leetcode-solutions/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/kabeleshh/leetcode-solutions/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
