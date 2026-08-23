@@ -13,6 +13,7 @@
 | [0197-rising-temperature](https://github.com/kabeleshh/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/kabeleshh/leetcode-solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/kabeleshh/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
+| [0585-investments-in-2016](https://github.com/kabeleshh/leetcode-solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/kabeleshh/leetcode-solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/kabeleshh/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/kabeleshh/leetcode-solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
