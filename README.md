@@ -24,6 +24,7 @@
 | [1084-sales-analysis-iii](https://github.com/kabeleshh/leetcode-solutions/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/kabeleshh/leetcode-solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/kabeleshh/leetcode-solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
+| [1193-monthly-transactions-i](https://github.com/kabeleshh/leetcode-solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/kabeleshh/leetcode-solutions/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1251-average-selling-price](https://github.com/kabeleshh/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/kabeleshh/leetcode-solutions/tree/main/1280-students-and-examinations/) | Easy |
