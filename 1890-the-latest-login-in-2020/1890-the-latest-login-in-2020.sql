@@ -1,0 +1,1 @@
+select user_id, time_stamp as last_stamp from (select *, row_number() over (partition by user_id order by time_stamp desc) as r from Logins where extract(YEAR from time_stamp) = 2020) where r = 1;
