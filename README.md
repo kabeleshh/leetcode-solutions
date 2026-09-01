@@ -41,6 +41,7 @@
 | [1934-confirmation-rate](https://github.com/kabeleshh/leetcode-solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kabeleshh/leetcode-solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3220-odd-and-even-transactions](https://github.com/kabeleshh/leetcode-solutions/tree/main/3220-odd-and-even-transactions/) | Medium |
+| [3497-analyze-subscription-conversion](https://github.com/kabeleshh/leetcode-solutions/tree/main/3497-analyze-subscription-conversion/) | Medium |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/kabeleshh/leetcode-solutions/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
