@@ -32,6 +32,7 @@
 | [1321-restaurant-growth](https://github.com/kabeleshh/leetcode-solutions/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/kabeleshh/leetcode-solutions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/kabeleshh/leetcode-solutions/tree/main/1341-movie-rating/) | Medium |
+| [1393-capital-gainloss](https://github.com/kabeleshh/leetcode-solutions/tree/main/1393-capital-gainloss/) | Medium |
 | [1407-top-travellers](https://github.com/kabeleshh/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/kabeleshh/leetcode-solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kabeleshh/leetcode-solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
