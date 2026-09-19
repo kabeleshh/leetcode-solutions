@@ -39,6 +39,7 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kabeleshh/leetcode-solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/kabeleshh/leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/kabeleshh/leetcode-solutions/tree/main/1729-find-followers-count/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/kabeleshh/leetcode-solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/kabeleshh/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1907-count-salary-categories](https://github.com/kabeleshh/leetcode-solutions/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/kabeleshh/leetcode-solutions/tree/main/1934-confirmation-rate/) | Medium |
