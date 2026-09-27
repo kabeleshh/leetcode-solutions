@@ -12,6 +12,7 @@
 | [0184-department-highest-salary](https://github.com/kabeleshh/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/kabeleshh/leetcode-solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/kabeleshh/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/kabeleshh/leetcode-solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/kabeleshh/leetcode-solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/kabeleshh/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0585-investments-in-2016](https://github.com/kabeleshh/leetcode-solutions/tree/main/0585-investments-in-2016/) | Medium |
