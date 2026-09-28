@@ -1,5 +1,4 @@
-with a as (select account, sum(amount) as balance from Transactions group by account)
-
-select u.name, a.balance from Users as u
-join a on u.account = a.account
-where a.balance > 10000;
+select u.name, sum(t.amount) as balance from Users u 
+join Transactions t on u.account = t.account
+group by u.name
+having sum(t.amount) > 10000;
