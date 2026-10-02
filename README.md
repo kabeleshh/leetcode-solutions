@@ -19,6 +19,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/kabeleshh/leetcode-solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/kabeleshh/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/kabeleshh/leetcode-solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
+| [0607-sales-person](https://github.com/kabeleshh/leetcode-solutions/tree/main/0607-sales-person/) | Easy |
 | [0608-tree-node](https://github.com/kabeleshh/leetcode-solutions/tree/main/0608-tree-node/) | Medium |
 | [0626-exchange-seats](https://github.com/kabeleshh/leetcode-solutions/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/kabeleshh/leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
