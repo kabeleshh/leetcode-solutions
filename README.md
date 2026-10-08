@@ -52,6 +52,7 @@
 | [1890-the-latest-login-in-2020](https://github.com/kabeleshh/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1907-count-salary-categories](https://github.com/kabeleshh/leetcode-solutions/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/kabeleshh/leetcode-solutions/tree/main/1934-confirmation-rate/) | Medium |
+| [1965-employees-with-missing-information](https://github.com/kabeleshh/leetcode-solutions/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kabeleshh/leetcode-solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kabeleshh/leetcode-solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3220-odd-and-even-transactions](https://github.com/kabeleshh/leetcode-solutions/tree/main/3220-odd-and-even-transactions/) | Medium |
