@@ -74,4 +74,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kabeleshh/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/kabeleshh/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
