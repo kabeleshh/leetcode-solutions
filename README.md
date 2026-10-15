@@ -49,6 +49,7 @@
 | [1693-daily-leads-and-partners](https://github.com/kabeleshh/leetcode-solutions/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/kabeleshh/leetcode-solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/kabeleshh/leetcode-solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/kabeleshh/leetcode-solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/kabeleshh/leetcode-solutions/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/kabeleshh/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1907-count-salary-categories](https://github.com/kabeleshh/leetcode-solutions/tree/main/1907-count-salary-categories/) | Medium |
