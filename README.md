@@ -71,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kabeleshh/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/kabeleshh/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +80,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/kabeleshh/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/kabeleshh/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
