@@ -11,6 +11,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/kabeleshh/leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0184-department-highest-salary](https://github.com/kabeleshh/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/kabeleshh/leetcode-solutions/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0196-delete-duplicate-emails](https://github.com/kabeleshh/leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/kabeleshh/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/kabeleshh/leetcode-solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/kabeleshh/leetcode-solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
