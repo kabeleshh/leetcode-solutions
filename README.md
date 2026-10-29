@@ -63,6 +63,7 @@
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kabeleshh/leetcode-solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3220-odd-and-even-transactions](https://github.com/kabeleshh/leetcode-solutions/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/kabeleshh/leetcode-solutions/tree/main/3497-analyze-subscription-conversion/) | Medium |
+| [3564-seasonal-sales-analysis](https://github.com/kabeleshh/leetcode-solutions/tree/main/3564-seasonal-sales-analysis/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/kabeleshh/leetcode-solutions/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 | [3580-find-consistently-improving-employees](https://github.com/kabeleshh/leetcode-solutions/tree/main/3580-find-consistently-improving-employees/) | Medium |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/kabeleshh/leetcode-solutions/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
