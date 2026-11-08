@@ -65,6 +65,7 @@
 | [1978-employees-whose-manager-left-the-company](https://github.com/kabeleshh/leetcode-solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kabeleshh/leetcode-solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3220-odd-and-even-transactions](https://github.com/kabeleshh/leetcode-solutions/tree/main/3220-odd-and-even-transactions/) | Medium |
+| [3421-find-students-who-improved](https://github.com/kabeleshh/leetcode-solutions/tree/main/3421-find-students-who-improved/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/kabeleshh/leetcode-solutions/tree/main/3497-analyze-subscription-conversion/) | Medium |
 | [3564-seasonal-sales-analysis](https://github.com/kabeleshh/leetcode-solutions/tree/main/3564-seasonal-sales-analysis/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/kabeleshh/leetcode-solutions/tree/main/3570-find-books-with-no-available-copies/) | Easy |
