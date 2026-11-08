@@ -2,5 +2,5 @@ with a as (select *, row_number() over (partition by student_id, subject order b
 
 
 select a.student_id, a.subject, a.score as first_score, b.score as latest_score from a
-join b on a.student_id = b.student_id and a.subject = b.subject
+join b using (student_id, subject)
 where a.r1 = 1 and b.r2 = 1 and b.score - a.score > 0;
