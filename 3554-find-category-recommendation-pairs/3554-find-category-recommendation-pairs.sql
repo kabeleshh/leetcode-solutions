@@ -1,4 +1,4 @@
-with join_table as (select pp.user_id, pp.product_id, pi.category from ProductPurchases pp join ProductInfo pi on pp.product_id = pi.product_id)
+with join_table as (select pp.user_id, pi.category from ProductPurchases pp join ProductInfo pi on pp.product_id = pi.product_id)
 
 select a.category as category1, b.category as category2, count(distinct a.user_id) as customer_count from join_table a
 join join_table b
