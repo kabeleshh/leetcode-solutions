@@ -67,6 +67,7 @@
 | [3220-odd-and-even-transactions](https://github.com/kabeleshh/leetcode-solutions/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3421-find-students-who-improved](https://github.com/kabeleshh/leetcode-solutions/tree/main/3421-find-students-who-improved/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/kabeleshh/leetcode-solutions/tree/main/3497-analyze-subscription-conversion/) | Medium |
+| [3554-find-category-recommendation-pairs](https://github.com/kabeleshh/leetcode-solutions/tree/main/3554-find-category-recommendation-pairs/) | Hard |
 | [3564-seasonal-sales-analysis](https://github.com/kabeleshh/leetcode-solutions/tree/main/3564-seasonal-sales-analysis/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/kabeleshh/leetcode-solutions/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 | [3580-find-consistently-improving-employees](https://github.com/kabeleshh/leetcode-solutions/tree/main/3580-find-consistently-improving-employees/) | Medium |
