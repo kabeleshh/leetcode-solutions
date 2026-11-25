@@ -26,6 +26,7 @@
 | [0607-sales-person](https://github.com/kabeleshh/leetcode-solutions/tree/main/0607-sales-person/) | Easy |
 | [0608-tree-node](https://github.com/kabeleshh/leetcode-solutions/tree/main/0608-tree-node/) | Medium |
 | [0619-biggest-single-number](https://github.com/kabeleshh/leetcode-solutions/tree/main/0619-biggest-single-number/) | Easy |
+| [0620-not-boring-movies](https://github.com/kabeleshh/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/kabeleshh/leetcode-solutions/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/kabeleshh/leetcode-solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/kabeleshh/leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
