@@ -1,4 +1,4 @@
-with a as (select l.num, lag(l.num) over (order by l.id) as prev, lead(l.num) over (order by l.id) as nxt from Logs l)
+with a as (select num, lag(num) over (order by id) as prev, lead(num) over (order by id) as nxt from Logs)
 
 select distinct num as ConsecutiveNums from a
 where num = prev and num = nxt;
